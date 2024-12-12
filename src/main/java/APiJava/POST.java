@@ -36,7 +36,8 @@ InputStreamReader reader=new InputStreamReader(inputStream);
 
 BufferedReader buffer = new BufferedReader(reader);
 
-System.out.println(buffer.readLine());
+System.out.println
+(buffer.readLine());
 
 	                                                                                                                                                                                                                                                                    
 	}
